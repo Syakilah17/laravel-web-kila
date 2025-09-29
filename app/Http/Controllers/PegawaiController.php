@@ -8,3 +8,5 @@ class PegawaiController extends Controller
 {
     //Tidak ada function, hanya class kosong (basic)
 }
+
+//Belajar LARAVEL SANGAT MENYENANGKAN
