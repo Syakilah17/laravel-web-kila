@@ -87,7 +87,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <label for="pertanyaan" class="form-label">Pertanyaan</label>
-                                    <textarea name="pernyataan"class="form-control" rows="4"></textarea>
+                                    <textarea name="pertanyaan"class="form-control" rows="4"></textarea>
                                 </div>
                                 <button type="submit" class="btn btn-primary">Kirim Pertanyaan</button>
                             </form>
