@@ -57,8 +57,7 @@
 
         <blockquote>
             <strong>Pertanyaan Anda: </strong><br>
-            "Siapakah Nama Orang Tua Budi?"
-            {{$pertanyaan}}
+            "{{$pertanyaan}}"
         </blockquote>
 
         <p class="email-info mt-4">

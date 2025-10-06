@@ -69,6 +69,20 @@
             </div>
 
             {{-- Fitur 2 --}}
+            <div class = "card-body">
+                <h5 class = "card-tittle">Form Pertanyaan</h5>
+
+                @if ($errors->any())
+                <div class = "alert alert-danger">
+                    <ul>
+                        @foreach ($errors ->all() as $error)
+                            <li>{{ $error}}</li>
+                        @endforeach
+                    </ul>
+                </div>
+                @endif
+
+            </div>
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="card h-100 shadow-sm">
                     <div class="card">
